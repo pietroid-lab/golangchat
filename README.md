@@ -77,9 +77,11 @@ go vet bot.go
 
 Faça a demonstração com os três processos em execução, incluindo broadcast, mensagem privada para outro usuário, mensagem privada para `Inversor`, alteração de apelido e saída.
 
-## Material da apresentação
+## Apresentação
 
-O arquivo PowerPoint de apoio está disponível junto à conversa em que este repositório foi preparado. Revise e personalize os slides antes da entrega.
+A apresentação com a explicação detalhada da implementação está disponível neste repositório: [apresentacao_ep03.pptx](./apresentacao_ep03.pptx).
+
+Revise e personalize os slides antes da entrega.
 
 ## Integridade acadêmica
 
